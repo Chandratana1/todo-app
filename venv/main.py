@@ -3,7 +3,8 @@ import time
 
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
-print("The time is below:")
+print("The time is below again presses:")
+print("What")
 print("It is", now)
 while True:
     user_action = input("Type add/new, show, edit,complete or exit:")
