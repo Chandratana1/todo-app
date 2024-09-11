@@ -34,6 +34,7 @@ while True:
             index = todos.index(todo_to_edit)
             todos[index] = new_todo
             functions.write_todos(todos)
+            #Eaelier push didnt happen
             window['todos'].update(values=todos)
 
         case 'todos':
