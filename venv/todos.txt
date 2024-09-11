@@ -1,11 +1,6 @@
-This is next
+This is first
 update the OS
- Play soccer
-add Play CHess
-Clean the bag
-Fix the drawer
-Why not working?
-Throw the bag
+FinallyThrow the bag
 Make soup.
 added fileapth
 one more tim
@@ -13,3 +8,9 @@ one more time
 Hello
 How are you
 Thanks
+
+Edited paceTest
+My name is Chandra
+My new Todo Added
+My newest todo is added
+Adios
